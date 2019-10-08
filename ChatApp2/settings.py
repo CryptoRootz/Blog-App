@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ChatApp.urls'
+ROOT_URLCONF = 'ChatApp2.urls'
 
 TEMPLATES = [
     {
